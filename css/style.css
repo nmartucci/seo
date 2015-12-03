@@ -1,1 +1,20 @@
-
+html{
+    background-color: crimson;
+    color: darkviolet
+}
+.main{
+    width:60%;
+    max-width:600px;
+    margin:0 auto;
+    line-height: 1.5;
+    border: groove 5px;
+    padding: 10px;
+    background-color: whitesmoke;
+    
+}
+.main ol{
+    margin: 0 auto;
+}
+h1, h3, p{
+    text-align: center;
+}
